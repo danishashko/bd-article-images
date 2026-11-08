@@ -1,0 +1,11 @@
+opportunity_id,account_name,industry,stage,amount_usd,seats,quoted_price_per_seat_usd,competitor_mentioned,owner,close_date,last_activity_note
+OPP-1041,Halcyon Logistics,Logistics,Negotiation,50400,350,12,Asana,Maya Cohen,2026-11-28,Buyer says Asana came back with a cheaper per-seat offer
+OPP-1042,Brightwater Health,Healthcare,Proposal,28800,200,12,monday.com,Liam Ortiz,2026-12-12,Procurement comparing us with monday.com Pro
+OPP-1043,Cobalt Ridge Bank,Financial Services,Discovery,64800,450,12,Smartsheet,Maya Cohen,2027-01-20,Security review pending; Smartsheet is incumbent
+OPP-1044,Atlas Freight Co,Logistics,Negotiation,17280,120,12,ClickUp,Noa Levi,2026-11-21,Champion likes ClickUp pricing for small teams
+OPP-1045,Verdant Foods,Consumer Goods,Proposal,40320,280,12,Wrike,Liam Ortiz,2026-12-05,Wrike demo scheduled next week
+OPP-1046,Northgate University,Education,Closed Won,21600,150,12,,Noa Levi,2026-10-30,Signed annual contract
+OPP-1047,Ember Studios,Media,Negotiation,11520,80,12,Notion,Maya Cohen,2026-11-26,Team already pays for Notion; asking for a discount
+OPP-1048,Ironclad Manufacturing,Manufacturing,Closed Lost,57600,400,12,Smartsheet,Liam Ortiz,2026-10-15,Lost on price to Smartsheet
+OPP-1049,Pinecrest Retail,Retail,Proposal,34560,240,12,Asana,Noa Levi,2026-12-18,Asked for a side-by-side with Asana Advanced
+OPP-1050,Silverline Insurance,Financial Services,Discovery,86400,600,12,,Maya Cohen,2027-02-10,No competitor named yet
